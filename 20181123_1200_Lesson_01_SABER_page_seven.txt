@@ -31,27 +31,36 @@ B) What's in the picture? Write sentences.
 [x] book bags
 [x] books
 
-[] briafcases
-[] cameras
-[] clocks
+[x] briafcases
+[x] cameras
+[x] clocks
 
-[] desks
-[] hairbrushes
-[] keys
+[x] desks
+[x] hairbrushes
+[x] keys
 
-[] pens
-[] wallets
-[] watches
+[x] pens
+[x] wallets
+[x] watches
 
 
 /z/
 
 book bags
+clocks
 
 /s/
 
 books
+pens
+wallets
+keys
+desks
 
 /iz/
 
 addresses
+watches
+hairbrushes
+cameras
+briafcases
